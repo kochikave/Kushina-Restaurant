@@ -71,7 +71,7 @@
     transition: ease-in-out 0.2s;
 }
 .h_bg{
-    background: linear-gradient(rgba(0, 0, 0, 0.253), rgba(0, 0, 0, 0.205)),url(../imgs/xbg_3.jpg.pagespeed.ic.brJXoGWxK2.webp);
+    background: linear-gradient(rgba(0, 0, 0, 0.253), rgba(0, 0, 0, 0.205)),url('banner.webp');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
